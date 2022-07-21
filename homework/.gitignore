@@ -1,2 +1,5 @@
+.mvn/
+.target/
 .idea/
-target/
+mvnw
+mvnw.cmd
