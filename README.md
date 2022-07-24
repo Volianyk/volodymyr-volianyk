@@ -1,2 +1,0 @@
-# volodymyr-volianyk
-Home work
