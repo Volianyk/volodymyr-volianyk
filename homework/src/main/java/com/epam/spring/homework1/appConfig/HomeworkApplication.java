@@ -1,3 +1,5 @@
+package com.epam.spring.homework1.appConfig;
+
 import com.epam.spring.homework1.config.BeanConfig;
 import com.epam.spring.homework1.pet.Pet;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
