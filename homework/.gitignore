@@ -1,5 +1,12 @@
+HELP.md
+target/
 .mvn/
-.target/
-.idea/
 mvnw
 mvnw.cmd
+*.log
+*.jar
+### IntelliJ IDEA ###
+*.idea
+*.iws
+*.iml
+*.ipr

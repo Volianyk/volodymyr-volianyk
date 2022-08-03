@@ -9,5 +9,6 @@ public class HomeworkApplication {
         AnnotationConfigApplicationContext context = new AnnotationConfigApplicationContext(BeanConfig.class);
         Pet pet = context.getBean(Pet.class);
         pet.printPets();
+        context.close();
     }
 }
